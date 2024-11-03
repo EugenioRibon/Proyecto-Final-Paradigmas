@@ -1,7 +1,6 @@
 # Mariano Kart 🏎️
 
-**Género:** Carreras  
-**Dificultad:** 1/5  
+**Género:** Carreras    
 
 ## Descripción del Juego
 En **Mariano Kart**, tu objetivo es simple pero desafiante: ¡acabar en la primera posición de la carrera! Este juego de carreras presenta una serie de niveles con dificultad progresiva, en los que competirás por la primera posición contra oponentes que utilizan vehículos similares al tuyo.
