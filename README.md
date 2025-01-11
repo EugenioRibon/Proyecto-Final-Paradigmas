@@ -1,48 +1,34 @@
-# Mariano Kart 🏎️
+# Space Kong 🚀🦍
 
-**Género:** Carreras    
+¡Bienvenido a **Space Kong**, una versión personalizada y temática del clásico juego Donkey Kong! Este proyecto ha sido diseñado en Unity, con personajes y elementos únicos que llevan la acción al espacio exterior. 🌌
 
-## Descripción del Juego
-En **Mariano Kart**, tu objetivo es simple pero desafiante: ¡acabar en la primera posición de la carrera! Este juego de carreras presenta una serie de niveles con dificultad progresiva, en los que competirás por la primera posición contra oponentes que utilizan vehículos similares al tuyo.
+## Características del Juego
+- **Gameplay clásico**: Escala niveles, esquiva meteoritos y rescata a la princesa.
+- **Ambientación espacial**: Personajes y objetos rediseñados con una temática galáctica.
+- **Meteoritos en lugar de barriles**: Los obstáculos principales han sido reemplazados por meteoritos ardientes.
+- **Interfaz dinámica**: Muestra vidas y puntuación actualizada en tiempo real.
 
-### Objetivo Principal
-El objetivo principal es crear un simulador de carreras con mecánicas de juego adictivas, niveles variados, y oponentes con IA avanzada. A medida que progreses en el juego, los niveles aumentarán en dificultad, proporcionando un reto continuo para el jugador.
+## Requisitos del Sistema
+- Unity 2021.3 o superior.
+- Sistema operativo: Windows, macOS o Linux.
 
-### Objetivo de Machine Learning
-El objetivo en el ámbito de Machine Learning es entrenar un agente inteligente para reemplazar a los oponentes de la carrera, logrando una competencia más desafiante y adaptativa.
-
-## Características
-- **Selección de Personajes/Coches:** Variedad de personajes y coches con atributos únicos que afectan la experiencia de juego.
-- **Power-ups Inteligentes:** Recolección de power-ups a lo largo de la carrera, que tanto el jugador como los oponentes pueden usar estratégicamente.
-- **Circuitos Realistas con Splines:** Uso de splines para diseñar circuitos con ondulaciones y curvas desafiantes, aumentando la complejidad de cada carrera.
-- **Innovaciones en el Género:** Elementos que aportan originalidad a las mecánicas tradicionales de los juegos de carreras.
-
-## Referencias y Recursos
-- **Tutorial ML Agents Karting de Unity:** [Unity Karting Template](https://learn.unity.com/project/karting-template)
-- **Repositorio de Demo:** [Unity Karting Template Demo](https://learn.unity.com/project/karting-template)
-
-## Instrucciones para Desarrolladores
-### Requisitos Previos
-- **Unity (versión recomendada):** xxx
-- **ML-Agents Toolkit:** Versión xxx
-
-### Instalación y Configuración
-1. Clona este repositorio:
+## Cómo Jugar
+1. Clona este repositorio en tu máquina local:
    ```bash
-   git clone https://github.com/tu-usuario/mariano-kart.git
-   ```
-2. Abre el proyecto en Unity y asegúrate de que tienes instalados los paquetes necesarios (ML-Agents, etc.).
-3. Compila y ejecuta el proyecto para comprobar que se carga correctamente.
+   git clone https://github.com/tu-usuario/donkey-kong-espacial.git
 
-## Roadmap
-- [ ] **Diseño de niveles y progresión de dificultad**
-- [ ] **Implementación de selección de personajes/coches**
-- [ ] **Desarrollo de power-ups y estrategias de IA**
-- [ ] **Entrenamiento de agentes de IA usando ML-Agents**
-- [ ] **Optimización y ajustes finales**
+2. Abre el proyecto en Unity
+3. Asegúrate de que las escenas estén correctamente configuradas:
+   - Preload Scene: Contiene el GameManager que controla la lógica del juego.
+   - Level 1,2,3: Escenarios principales.
+  
+4. Presiona Play para comenzar.
 
-## Contribuciones
-Si deseas contribuir al desarrollo de **Mariano Kart**, revisa las directrices de contribución en el archivo `CONTRIBUTING.md`.
+## Controles
+- Movimiento: Usa las teclas de dirección o WASD para mover al personaje.
+- Acción: Usa la tecla Espacio para saltar.
 
-## Licencia
-Este proyecto está bajo la licencia XYZ.
+## Créditos
+- Desarrollo: Eugenio Ribón, Beltrán Sanchez
+- Diseño de Personajes y Sprites: Creado con herramientas de pixel art y DALL·E.
+- Motor: Unity.
