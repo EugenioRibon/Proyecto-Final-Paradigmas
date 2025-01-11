@@ -4,6 +4,10 @@
 
 ![Start Screen](/images/StartScreen.jpg)
 
+<div align="center">
+  <img src="images/StartScreen.jpg" alt="Start Screen" width="400"/>
+</div>
+
 ## Características del Juego
 - **Gameplay clásico**: Escala niveles, esquiva meteoritos y rescata a la princesa.
 - **Ambientación espacial**: Personajes y objetos rediseñados con una temática galáctica.
