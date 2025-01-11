@@ -1,7 +1,8 @@
 # Space Kong 🚀🦍
 
-![Start Screen](/images/StartScreen.jpg)
 ¡Bienvenido a **Space Kong**, una versión personalizada y temática del clásico juego Donkey Kong! Este proyecto ha sido diseñado en Unity, con personajes y elementos únicos que llevan la acción al espacio exterior. 🌌
+
+![Start Screen](/images/StartScreen.jpg)
 
 ## Características del Juego
 - **Gameplay clásico**: Escala niveles, esquiva meteoritos y rescata a la princesa.
