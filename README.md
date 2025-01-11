@@ -19,7 +19,7 @@
 ## Cómo Jugar
 1. Clona este repositorio en tu máquina local:
    ```bash
-   git clone https://github.com/tu-usuario/donkey-kong-espacial.git
+   gh repo clone EugenioRibon/Proyecto-Final-Paradigmas
 
 2. Abre el proyecto en Unity
 3. Asegúrate de que las escenas estén correctamente configuradas:
